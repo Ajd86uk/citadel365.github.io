@@ -1,0 +1,31 @@
+- title: Workshops
+  url: /workshops
+  img: icons/workshop.svg
+
+- title: Labs
+  url: /labs
+  img: icons/lab.svg
+
+- title: Demos
+  url: /demos
+  img: icons/demo.svg
+
+- title: Guides
+  url: /guides
+  img: icons/guide.svg
+
+- title: Videos
+  url: /videos
+  img: icons/video.svg
+
+- title: Search
+  url: /search
+  img: icons/search.svg
+
+- title: Contributors
+  url: /contrib
+  img: icons/authors.svg
+
+- title: About
+  url: /about
+  img: icons/about.svg
